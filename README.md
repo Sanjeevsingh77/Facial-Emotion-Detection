@@ -93,13 +93,6 @@ If you like this project, please ⭐ star the repository to support the work!
 ✔ Recruiter-friendly  
 ✔ Perfect for Mini / Final Year Project  
 
-If you want:
-- 🔥 **Screenshots section**
-- 📦 **requirements.txt**
-- 📄 **Project report / PPT**
-- 🌐 **Web version (Flask/React)**
-
-Just tell me 👌
 
 
 
